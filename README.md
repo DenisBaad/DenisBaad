@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 Olá! sejam bem-vindos.
-Me chamo Denis e sou desenvolvedor full stack júnior com foco em entregar soluções completas e funcionais, tanto no backend quanto no frontend. Sou graduado em Análise e Desenvolvimento de Sistemas, e minha paixão pela tecnologia e pelo aprendizado constante me motiva a enfrentar novos desafios e contribuir para projetos que impactem positivamente pessoas e negócios.
+Me chamo Denis e sou desenvolvedor full stack com foco em entregar soluções completas e funcionais, tanto no backend quanto no frontend. Sou graduado em Análise e Desenvolvimento de Sistemas, e minha paixão pela tecnologia e pelo aprendizado constante me motiva a enfrentar novos desafios e contribuir para projetos que impactem positivamente pessoas e negócios.
 
 No backend, trabalho principalmente com C# e MySQL, desenvolvendo APIs e micro serviços que priorizam performance, segurança e escalabilidade. Tenho experiência em implementação de autenticação via token JWT, testes de software, além de trabalhar com Docker para criar ambientes isolados e otimizados para desenvolvimento e produção.
 
