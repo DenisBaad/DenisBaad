@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Denis Baad
 
-**Desenvolvedor FullStack**
+**`Desenvolvedor FullStack`**
 
 Olá! sejam bem-vindos.
 Me chamo Denis e sou desenvolvedor full stack júnior com foco em entregar soluções completas e funcionais, tanto no backend quanto no frontend. Sou graduado em Análise e Desenvolvimento de Sistemas, e minha paixão pela tecnologia e pelo aprendizado constante me motiva a enfrentar novos desafios e contribuir para projetos que impactem positivamente pessoas e negócios.
@@ -50,14 +50,17 @@ Estou constantemente aprimorando minhas habilidades, participando de cursos, exp
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" alt="Angular" title="Angular" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+<img align="left" alt="Angular Material" title="Angular Material" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg" />          
 <img align="left" alt="C#" title="C#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="left" alt="ASP.NET Core" title="ASP.NET Core" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
 <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img align="left" alt="Swagger" title="Swagger" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
 <img align="left" alt="Azure DevOps" title="Azure DevOps" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
 <img align="left" alt="Azure" title="Azure" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="Swagger" title="Swagger" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
+<img align="left" alt="Postman" title="Postman" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+          
 
 <br/>
 <br/>
