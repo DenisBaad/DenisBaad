@@ -5,7 +5,7 @@
 Olá! sejam bem-vindos.
 Me chamo Denis e sou desenvolvedor full stack com foco em entregar soluções completas e funcionais, tanto no backend quanto no frontend. Sou graduado em Análise e Desenvolvimento de Sistemas, e minha paixão pela tecnologia e pelo aprendizado constante me motiva a enfrentar novos desafios e contribuir para projetos que impactem positivamente pessoas e negócios.
 
-No backend, trabalho principalmente com C# e MySQL, desenvolvendo APIs e micro serviços que priorizam performance, segurança e escalabilidade. Tenho experiência em implementação de autenticação via token JWT, testes de software, além de trabalhar com Docker para criar ambientes isolados e otimizados para desenvolvimento e produção.
+No backend, atuo com foco nos princípios do Domain-Driven Design (DDD), desenvolvendo soluções orientadas ao domínio. Trabalho principalmente com C# e MySQL, além de Node.js com banco de dados não relacional como MongoDB, criando APIs RESTful e microserviços que priorizam performance, segurança e escalabilidade. Tenho experiência na implementação de autenticação via JWT (JSON Web Token), na escrita de testes automatizados, e no uso de Docker para provisionar ambientes isolados e otimizados, tanto para desenvolvimento quanto para produção.
 
 No frontend, utilizo Angular, HTML, CSS e TypeScript para construir interfaces modernas, intuitivas e responsivas. Domino técnicas como rotas de guarda (route guards), lazy loading para otimização de performance e estratégias para prevenção de memory leaks, garantindo aplicações mais leves e estáveis. Minha atenção aos detalhes me ajuda a transformar requisitos em experiências de usuário que encantam e atendem às expectativas.
 
