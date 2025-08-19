@@ -17,6 +17,9 @@ Estou constantemente aprimorando minhas habilidades, participando de cursos, exp
 
 🔗 Confira meu portfólio em produção:  
 [https://apolo-seven.vercel.app/login](https://apolo-seven.vercel.app/login)
+Observação importante:
+Por limitações orçamentárias, atualmente minha API está hospedada em um servidor com recursos restritos. Isso pode ocasionar instabilidades pontuais na experiência de uso. Por exemplo, o login pode exigir algumas tentativas (cerca de 7 cliques, em média), e certos elementos da interface podem não carregar corretamente em um primeiro momento — nesses casos, um simples refresh ou alternar entre telas geralmente resolve.
+Mesmo com essas limitações técnicas, o sistema demonstra toda a estrutura funcional e lógica por trás do projeto. Agradeço pela compreensão!
 
 <p align="left">
     <a href="https://github.com/DenisBaad?tab=repositories&sort=stargazers">
