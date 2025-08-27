@@ -2,26 +2,22 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá! sejam bem-vindos.
-Me chamo Denis e sou desenvolvedor full stack com foco em entregar soluções completas e funcionais, tanto no backend quanto no frontend. Sou graduado em Análise e Desenvolvimento de Sistemas, e minha paixão pela tecnologia e pelo aprendizado constante me motiva a enfrentar novos desafios e contribuir para projetos que impactem positivamente pessoas e negócios.
+Desenvolvedor Full Stack graduado em Análise e Desenvolvimento de Sistemas, com foco em entregar soluções completas e funcionais, tanto no backend quanto no frontend. Sou motivado pelo aprendizado constante e por enfrentar desafios que impactem positivamente pessoas e negócios.
 
-No backend, atuo com foco nos princípios do Domain-Driven Design (DDD), desenvolvendo soluções orientadas ao domínio. Trabalho principalmente com C# e MySQL, além de Node.js com banco de dados não relacional como MongoDB, criando APIs RESTful e microserviços que priorizam performance, segurança e escalabilidade. Tenho experiência na implementação de autenticação via JWT (JSON Web Token), na escrita de testes automatizados, e no uso de Docker para provisionar ambientes isolados e otimizados, tanto para desenvolvimento quanto para produção.
+No backend, trabalho com C# e MySQL, além de Node.js com MongoDB, desenvolvendo APIs RESTful e microserviços orientados ao domínio (DDD), priorizando performance, segurança e escalabilidade. Tenho experiência com autenticação via JWT, testes automatizados e Docker para provisionamento de ambientes.
 
-No frontend, utilizo Angular ou React, HTML, CSS e TypeScript para construir interfaces modernas, intuitivas e responsivas. Domino técnicas como rotas de guarda (route guards), lazy loading para otimização de performance e estratégias para prevenção de memory leaks, garantindo aplicações mais leves e estáveis. Minha atenção aos detalhes me ajuda a transformar requisitos em experiências de usuário que encantam e atendem às expectativas.
+No frontend, utilizo Angular ou React, HTML, CSS e TypeScript para criar interfaces modernas, intuitivas e responsivas, aplicando técnicas como lazy loading, route guards e prevenção de memory leaks.
 
-Além disso, possuo conhecimento em versionamento de código com Git, garantindo organização, controle de histórico e colaboração eficiente em projetos em equipe. Tenho experiência com pipelines de integração e entrega contínua (CI/CD), configurando automações que agilizam builds e deploys. Também trabalho seguindo a metodologia ágil Scrum, participando de cerimônias, sprints e planejamentos para garantir entregas contínuas e de valor.
+Também tenho experiência com Git, pipelines CI/CD e metodologias ágeis (Scrum), colaborando de forma eficiente em equipes multidisciplinares.
 
-Valorizo muito o trabalho em equipe e a comunicação. Acredito que grandes soluções nascem de uma boa colaboração e do aprendizado mútuo. Tenho disposição para aprender com profissionais mais experientes, mas também gosto de compartilhar o que sei e ajudar meus colegas sempre que possível.
+Projeto Full Stack
 
-Estou constantemente aprimorando minhas habilidades, participando de cursos, explorando novas tecnologias e acompanhando as tendências do mercado. Minha meta é crescer como desenvolvedor, tanto tecnicamente quanto profissionalmente, para contribuir de forma significativa em projetos desafiadores e inovadores.
+Para aplicar meus conhecimentos, desenvolvi um sistema full stack acessível online:
+🔗 https://helios-five-beige.vercel.app/login/home
 
-🔗 Confira meu portfólio em produção:  
-[https://helios-five-beige.vercel.app/login/home](https://helios-five-beige.vercel.app/login/home) 
+O projeto demonstra toda a estrutura técnica, lógica de negócio e experiência de usuário que posso oferecer.
 
-Observação importante:
-Por limitações orçamentárias, optei por hospedar o sistema em um ambiente gratuito. Por esse motivo, o servidor da API pode levar alguns instantes para “acordar” após um período de inatividade, o que pode exigir algumas tentativas no login até que tudo esteja plenamente carregado.
-Em raros casos, pode ser necessário atualizar a página para que os elementos da interface apareçam corretamente.
-Apesar dessas limitações técnicas, o sistema demonstra toda a estrutura funcional, a lógica de negócio e a experiência completa que posso oferecer como desenvolvedor. Agradeço pela compreensão!
+Observação: o sistema está hospedado em ambiente gratuito, portanto a API pode levar alguns segundos para iniciar após períodos de inatividade.
 
 <p align="left">
     <a href="https://github.com/DenisBaad?tab=repositories&sort=stargazers">
