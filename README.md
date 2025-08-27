@@ -16,7 +16,7 @@ Valorizo muito o trabalho em equipe e a comunicação. Acredito que grandes solu
 Estou constantemente aprimorando minhas habilidades, participando de cursos, explorando novas tecnologias e acompanhando as tendências do mercado. Minha meta é crescer como desenvolvedor, tanto tecnicamente quanto profissionalmente, para contribuir de forma significativa em projetos desafiadores e inovadores.
 
 🔗 Confira meu portfólio em produção:  
-[https://helios-ql03gfgvk-denis-baads-projects.vercel.app/login/home](https://helios-ql03gfgvk-denis-baads-projects.vercel.app/login/home)  
+[https://helios-five-beige.vercel.app/login/home](https://helios-five-beige.vercel.app/login/home) 
 
 Observação importante:
 Por limitações orçamentárias, optei por hospedar o sistema em um ambiente gratuito. Por esse motivo, o servidor da API pode levar alguns instantes para “acordar” após um período de inatividade, o que pode exigir algumas tentativas no login até que tudo esteja plenamente carregado.
@@ -68,6 +68,7 @@ Apesar dessas limitações técnicas, o sistema demonstra toda a estrutura funci
 <img align="left" alt="Azure DevOps" title="Azure DevOps" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
 <img align="left" alt="Azure" title="Azure" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />          
+
 
 <br/>
 <br/>
