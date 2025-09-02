@@ -4,7 +4,7 @@
 
 Desenvolvedor Full Stack graduado em Análise e Desenvolvimento de Sistemas, com foco em entregar soluções completas e funcionais, tanto no backend quanto no frontend. Sou motivado pelo aprendizado constante e por enfrentar desafios que impactem positivamente pessoas e negócios.
 
-No backend, trabalho com C# e MySQL, além de Node.js com MongoDB, desenvolvendo APIs RESTful e microserviços orientados ao domínio (DDD), priorizando performance, segurança e escalabilidade. Tenho experiência com autenticação via JWT, testes automatizados e Docker para provisionamento de ambientes.
+No backend, trabalho com C# e MySQL, além de Node.js com MongoDB, desenvolvendo APIs RESTful e microserviços orientados ao domínio (DDD), priorizando performance, segurança e escalabilidade. Tenho experiência com autenticação via JWT, testes automatizados, Docker para provisionamento de ambientes e Apache Kafka para mensageria e comunicação assíncrona entre microserviços.
 
 No frontend, utilizo Angular ou React, HTML, CSS e TypeScript para criar interfaces modernas, intuitivas e responsivas, aplicando técnicas como lazy loading, route guards e prevenção de memory leaks.
 
