@@ -10,15 +10,6 @@ No frontend, utilizo Angular ou React, HTML, CSS e TypeScript para criar interfa
 
 Também tenho experiência com Git, pipelines CI/CD e metodologias ágeis (Scrum), colaborando de forma eficiente em equipes multidisciplinares.
 
-Projeto Full Stack
-
-Para aplicar meus conhecimentos, desenvolvi um sistema full stack acessível online:
-🔗 https://helios-five-beige.vercel.app/login/home
-
-O projeto demonstra toda a estrutura técnica, lógica de negócio e experiência de usuário que posso oferecer.
-
-Observação: o sistema está hospedado em ambiente gratuito, portanto a API pode levar alguns segundos para iniciar após períodos de inatividade.
-
 <p align="left">
     <a href="https://github.com/DenisBaad?tab=repositories&sort=stargazers">
         <img 
