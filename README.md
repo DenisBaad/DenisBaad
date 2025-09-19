@@ -4,7 +4,7 @@
 
 Desenvolvedor Full Stack graduado em Análise e Desenvolvimento de Sistemas, com foco em entregar soluções completas e funcionais, tanto no backend quanto no frontend. Sou motivado pelo aprendizado constante e por enfrentar desafios que impactem positivamente pessoas e negócios.
 
-No backend, trabalho com C# e MySQL, além de Node.js com MongoDB, desenvolvendo APIs RESTful e microserviços orientados ao domínio (DDD), priorizando performance, segurança e escalabilidade. Tenho experiência com autenticação via JWT, testes automatizados, Docker para provisionamento de ambientes e Apache Kafka para mensageria e comunicação assíncrona entre microserviços.
+No backend, trabalho com C# e MySQL, desenvolvendo APIs RESTful e microserviços orientados ao domínio (DDD), priorizando performance, segurança e escalabilidade. Tenho experiência com autenticação via JWT, testes automatizados, Docker para provisionamento de ambientes e Apache Kafka para mensageria e comunicação assíncrona entre microserviços.
 
 No frontend, utilizo Angular ou React, HTML, CSS e TypeScript para criar interfaces modernas, intuitivas e responsivas, aplicando técnicas como lazy loading, route guards e prevenção de memory leaks.
 
@@ -44,13 +44,9 @@ Também tenho experiência com Git, pipelines CI/CD e metodologias ágeis (Scrum
 <img align="left" alt="Angular" title="Angular" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 <img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="Angular Material" title="Angular Material" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg" /> 
-<img align="left" alt="Material-UI" title="Material-UI" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
 <img align="left" alt="C#" title="C#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="ASP.NET Core" title="ASP.NET Core" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
-<img align="left" alt="Prisma" title="TypeORM" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" />
 <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img align="left" alt="MongoDB" title="MongoDB" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img align="left" alt="Kafka" title="Kafka" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg#gh-light-mode-only" />
 <img align="left" alt="Azure DevOps" title="Azure DevOps" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
