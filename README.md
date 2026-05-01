@@ -2,13 +2,13 @@
 
 **`Desenvolvedor FullStack`**
 
-Desenvolvedor Full Stack graduado em Análise e Desenvolvimento de Sistemas, com foco em entregar soluções completas e funcionais, tanto no backend quanto no frontend. Sou motivado pelo aprendizado constante e por enfrentar desafios que impactem positivamente pessoas e negócios.
-
-No backend, trabalho com C# e MySQL, desenvolvendo APIs RESTful e microserviços orientados ao domínio (DDD), priorizando performance, segurança e escalabilidade. Tenho experiência com autenticação via JWT, testes automatizados, Docker para provisionamento de ambientes e Apache Kafka para mensageria e comunicação assíncrona entre microserviços.
-
-No frontend, utilizo Angular ou React, HTML, CSS e TypeScript para criar interfaces modernas, intuitivas e responsivas, aplicando técnicas como lazy loading, route guards e prevenção de memory leaks.
-
-Também tenho experiência com Git, pipelines CI/CD e metodologias ágeis (Scrum), colaborando de forma eficiente em equipes multidisciplinares.
+Desenvolvedor Full Stack graduado em Análise e Desenvolvimento de Sistemas e atualmente cursando pós-graduação em Engenharia de Software, com foco em entregar soluções completas e funcionais. Sou motivado pelo aprendizado constante e por enfrentar desafios que impactem positivamente pessoas e negócios.
+ 
+No backend, trabalho com C#, desenvolvendo APIs RESTful e microserviços orientados ao domínio (DDD), priorizando performance, segurança e escalabilidade. Tenho experiência com autenticação via JWT, testes automatizados, Docker para provisionamento de ambientes e Apache Kafka para mensageria e comunicação assíncrona entre microserviços.
+ 
+No frontend, utilizo Angular, HTML, CSS e TypeScript para criar interfaces modernas, intuitivas e responsivas, aplicando técnicas como lazy loading, route guards e prevenção de memory leaks.
+ 
+Também tenho experiência com Git, pipelines CI/CD e metodologias ágeis (Scrum), colaborando de forma eficiente em equipes multidisciplinares. Além disso, possuo familiaridade com serviços em nuvem, como Azure e AWS, incluindo consumo de dados de buckets e integração com diferentes serviços.
 
 <p align="left">
     <a href="https://github.com/DenisBaad?tab=repositories&sort=stargazers">
