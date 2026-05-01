@@ -10,30 +10,6 @@ No frontend, utilizo Angular, HTML, CSS e TypeScript para criar interfaces moder
  
 Também tenho experiência com Git, pipelines CI/CD e metodologias ágeis (Scrum), colaborando de forma eficiente em equipes multidisciplinares. Além disso, possuo familiaridade com serviços em nuvem, como Azure e AWS, incluindo consumo de dados de buckets e integração com diferentes serviços.
 
-<p align="left">
-    <a href="https://github.com/DenisBaad?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/DenisBaad?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-        />
-    </a>
-    <a href="https://github.com/DenisBaad?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/DenisBaad?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/denis-baad-836a36241" target="_blank">
-        <img 
-            alt="LinkedIn"
-            title="Meu LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Denis%20Baad-blue?logo=linkedin&logoColor=white&style=for-the-badge"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -51,19 +27,10 @@ Também tenho experiência com Git, pipelines CI/CD e metodologias ágeis (Scrum
 <img align="left" alt="Kafka" title="Kafka" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg#gh-light-mode-only" />
 <img align="left" alt="Azure DevOps" title="Azure DevOps" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
 <img align="left" alt="Azure" title="Azure" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" />
+<img align="left" alt="AWS" title="AWS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />          
 
 
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisBaad&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
